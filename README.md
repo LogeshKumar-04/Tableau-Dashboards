@@ -1,5 +1,5 @@
 # Tableau-Project
-Here I have linked some of my practiced dashboards using Tableau. I created these Dashboards in Tableau Desktop.But Unfortunately I can't upload in Tableau Sever/Online. So I saved the files as *.twbx format and saved in my Drive.
+Here I have some of my practiced dashboards using Tableau. I created these Dashboards in Tableau Desktop.But Unfortunately I can't upload in Tableau Sever/Online. So I saved the files as *.twbx format and saved in my Drive.
 
 # Dashboards
 ##### Click on Dashboard of any project to check my Dashboards
